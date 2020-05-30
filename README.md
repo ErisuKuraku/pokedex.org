@@ -59,4 +59,4 @@ Credits
 ---
 
 
-Thanks to [PokeAPI](http://pokeapi.co/) and [Bulbapedia](http://bulbapedia.bulbagarden.net/) for the Pokémon data, and of course to Nintendo, Game Freak, and The Pokémon Company for making such an awesome series of games.
+Thanks to [PokeAPI](http://pokeapi.co/) and [Bulbapedia](http://bulbapedia.bulbagarden.net/) for the Pokémon data, and of course to Nintendo, Game Freak, and The Pokémon Company for making such an awesome series of games. Also thanks to [Nolan Lawson](https://github.com/nolanlawson/) for posting the code of his website on Github for others to fork and base on :)
